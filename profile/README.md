@@ -1,7 +1,7 @@
 # JetBrains Academy – Learn Programming Platform
 
 <div align="center">  
-  <img src="https://plugins.jetbrains.com/files/10081/912708/icon/default.png" width="250" alt="JetBrains Academy Logo"/>  
+  <img src="https://www.jetbrainssoftware.sk/wp-content/uploads/2023/07/Academy_logo-e1716286505423.png" width="250" alt="JetBrains Academy Logo"/>  
 </div>  
 
 <br>  
